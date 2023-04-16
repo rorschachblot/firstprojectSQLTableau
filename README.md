@@ -7,3 +7,5 @@ Through this analysis, we try to shed light on below pertinent questions regardi
 - which countries have dominated world football over time?
 - which countries are likely to continue to be successful in immediate future?
 - interesting trends in international football history
+
+This analysis is currently ongoing.
