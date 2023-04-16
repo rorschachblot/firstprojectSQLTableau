@@ -1,0 +1,548 @@
+match_id,date,home_team,away_team,winner
+Ind24706waniaTa,22-08-1967,India,Taiwan,Taiwan
+Sou26251liceaVi,14-11-1971,South Korea,Vietnam Republic,South Korea
+Sou26426raqeaIr,07-05-1972,South Korea,Iraq,Iraq
+Tha26436reandSo,17-05-1972,Thailand,South Korea,South Korea
+Tha26438diandCa,19-05-1972,Thailand,Cambodia,Thailand
+Sen26775anaalGh,21-04-1973,Senegal,Ghana,Ghana
+Gui26829alieaMa,14-06-1973,Guinea,Mali,Guinea
+Mau26829niausTa,14-06-1973,Mauritius,Tanzania,Mauritius
+Mal26871aitiaKu,26-07-1973,Malaysia,Kuwait,Malaysia
+Cam26871oreiaSi,26-07-1973,Cambodia,Singapore,Singapore
+Ban26872andshTh,27-07-1973,Bangladesh,Thailand,Thailand
+Mya26873reaarSo,28-07-1973,Myanmar,South Korea,Myanmar
+Ind26885liciaVi,09-08-1973,India,Vietnam Republic,Vietnam Republic
+Alg26899riaiaSy,23-08-1973,Algeria,Syria,Syria
+Alg26901raqiaIr,25-08-1973,Algeria,Iraq,Algeria
+Qat27116tesarUn,28-03-1974,Qatar,United Arab Emirates,Qatar
+Hon27234siangIn,24-07-1974,Hong Kong,Indonesia,Indonesia
+Ind27242siaiaIn,01-08-1974,India,Indonesia,Indonesia
+Syr27311ccoiaMo,09-10-1974,Syria,Morocco,Morocco
+Lib27355siayaTu,22-11-1974,Libya,Tunisia,Tunisia
+Sou27381siaeaMa,18-12-1974,South Korea,Malaysia,South Korea
+Mor27588anacoGh,13-07-1975,Morocco,Ghana,Morocco
+Ken27707awiyaMa,09-11-1975,Kenya,Malawi,Kenya
+Lib27751riayaSy,23-12-1975,Libya,Syria,Syria
+Cze27931anyiaGe,20-06-1976,Czechoslovakia,Germany,Czechoslovakia
+Sou28116siaeaMa,22-12-1976,South Korea,Malaysia,Malaysia
+Tun28134ccoiaMo,09-01-1977,Tunisia,Morocco,Tunisia
+Arg28206rannaIr,22-03-1977,Argentina,Iran,Argentina
+Zam28302riaiaAl,26-06-1977,Zambia,Algeria,Zambia
+Ira28333ccoanMo,27-07-1977,Iran,Morocco,Iran
+Par28368inaayAr,31-08-1977,Paraguay,Argentina,Paraguay
+Gui28868aliauMa,13-01-1979,Guinea-Bissau,Mali,Mali
+Gui28869neaauGu,14-01-1979,Guinea-Bissau,Guinea,Guinea
+Cam28974neaonGu,29-04-1979,Cameroon,Guinea,Guinea
+Arg28997ndsnaNe,22-05-1979,Argentina,Netherlands,Argentina
+Gam29267niaiaMa,16-02-1980,Gambia,Mauritania,Gambia
+Alg29299yptiaEg,19-03-1980,Algeria,Egypt,Algeria
+Ita29393kialyCz,21-06-1980,Italy,Czechoslovakia,Czechoslovakia
+Nig29414siaiaTu,12-07-1980,Nigeria,Tunisia,Nigeria
+Zam29555ccoiaMo,30-11-1980,Zambia,Morocco,Morocco
+Hon29586 PRngCh,31-12-1980,Hong Kong,China PR,China PR
+Mal29630nealiGu,13-02-1981,Mali,Guinea,Guinea
+Rwa29716piadaEt,10-05-1981,Rwanda,Ethiopia,Ethiopia
+Ivo30003ogostTo,21-02-1982,Ivory Coast,Togo,Togo
+Ivo30004asostBu,22-02-1982,Ivory Coast,Burkina Faso,Burkina Faso
+Lib30029anayaGh,19-03-1982,Libya,Ghana,Ghana
+Tha30086orendSi,15-05-1982,Thailand,Singapore,Thailand
+Tha30088reandSo,17-05-1982,Thailand,South Korea,Thailand
+Ger30140ncenyFr,08-07-1982,Germany,France,Germany
+Ind30241siaiaMa,17-10-1982,Indonesia,Malaysia,Indonesia
+Uga30282nyadaKe,27-11-1982,Uganda,Kenya,Kenya
+Sen30353geralNi,06-02-1983,Senegal,Niger,Senegal
+Gam30367oneiaSi,20-02-1983,Gambia,Sierra Leone,Gambia
+Mal30374nealiGu,27-02-1983,Mali,Guinea,Mali
+Egy30428ngoptCo,22-04-1983,Egypt,Congo,Egypt
+Mau30430piausEt,24-04-1983,Mauritius,Ethiopia,Ethiopia
+Hon30515andngTh,18-07-1983,Hong Kong,Thailand,Thailand
+Mor30556riacoNi,28-08-1983,Morocco,Nigeria,Nigeria
+Bra30609uayilPa,20-10-1983,Brazil,Paraguay,Brazil
+Ivo30665alistMa,15-12-1983,Ivory Coast,Mali,Ivory Coast
+Mal30668rialiNi,18-12-1983,Mali,Nigeria,Mali
+Sie30728alineMa,16-02-1984,Sierra Leone,Mali,Sierra Leone
+Sie30731galneSe,19-02-1984,Sierra Leone,Senegal,Senegal
+Egy30755riaptNi,14-03-1984,Egypt,Nigeria,Nigeria
+Alg30755ooniaCa,14-03-1984,Algeria,Cameroon,Cameroon
+Ira30769taraqQa,28-03-1984,Iraq,Qatar,Iraq
+Den30857ainrkSp,24-06-1984,Denmark,Spain,Spain
+Sen30878olaalAn,15-07-1984,Senegal,Angola,Angola
+Ken31009liayaSo,23-11-1984,Kenya,Somalia,Kenya
+Gha31014ogonaTo,28-11-1984,Ghana,Togo,Ghana
+Ken31024liayaSo,08-12-1984,Kenya,Somalia,Kenya
+Sau31029raniaIr,13-12-1984,Saudi Arabia,Iran,Saudi Arabia
+Mal31031biawiZa,15-12-1984,Malawi,Zambia,Zambia
+Ira31032aitanKu,16-12-1984,Iran,Kuwait,Kuwait
+Cha31032neaadEq,16-12-1984,Chad,Equatorial Guinea,Chad
+Cen31035bonicGa,19-12-1984,Central African Republic,Gabon,Gabon
+Con31036oongoCa,20-12-1984,Congo,Cameroon,Cameroon
+Moz31153awiueMa,16-04-1985,Mozambique,Malawi,Mozambique
+Mad31158yptarEg,21-04-1985,Madagascar,Egypt,Egypt
+Bah31238tarinQa,10-07-1985,Bahrain,Qatar,Bahrain
+Sau31240tariaQa,12-07-1985,Saudi Arabia,Qatar,Saudi Arabia
+Mal31284nealiGu,25-08-1985,Mali,Guinea,Guinea
+Moz31305byaueLi,15-09-1985,Mozambique,Libya,Mozambique
+Ken31331ndayaUg,11-10-1985,Kenya,Uganda,Kenya
+Egy31492oonptCa,21-03-1986,Egypt,Cameroon,Egypt
+Bra31584nceilFr,21-06-1986,Brazil,France,France
+Mex31584anycoGe,21-06-1986,Mexico,Germany,Germany
+Spa31585iuminBe,22-06-1986,Spain,Belgium,Belgium
+Gab31704olaonAn,19-10-1986,Gabon,Angola,Angola
+Cha31763bonadGa,17-12-1986,Chad,Gabon,Chad
+Mal31837oneliSi,01-03-1987,Mali,Sierra Leone,Mali
+Sen31838onealSi,02-03-1987,Senegal,Sierra Leone,Senegal
+Aus31947yptiaEg,19-06-1987,Australia,Egypt,Australia
+Sou31949liaeaAu,21-06-1987,South Korea,Australia,South Korea
+DR 31977galgoSe,19-07-1987,DR Congo,Senegal,DR Congo
+Mal32124bwewiZi,13-12-1987,Malawi,Zimbabwe,Zimbabwe
+Equ32129boneaGa,18-12-1987,Equatorial Guinea,Gabon,Gabon
+Eth32138bweiaZi,27-12-1987,Ethiopia,Zimbabwe,Ethiopia
+Sou32148ypteaEg,06-01-1988,South Korea,Egypt,South Korea
+Alg32225riaiaNi,23-03-1988,Algeria,Nigeria,Nigeria
+Mor32228riacoAl,26-03-1988,Morocco,Algeria,Algeria
+Ger32233dennySw,31-03-1988,Germany,Sweden,Sweden
+Mal32268galliSe,05-05-1988,Mali,Senegal,Mali
+Gui32271alieaMa,08-05-1988,Guinea,Mali,Guinea
+Can32291ecedaGr,28-05-1988,Canada,Greece,Canada
+Egy32343riaptSy,19-07-1988,Egypt,Syria,Syria
+Ira32345riaaqSy,21-07-1988,Iraq,Syria,Iraq
+Chi32415dorleEc,29-09-1988,Chile,Ecuador,Ecuador
+Esw32432nianiTa,16-10-1988,Eswatini,Tanzania,Eswatini
+Cen32483bonicGa,06-12-1988,Central African Republic,Gabon,Gabon
+Chi32494ranPRIr,17-12-1988,China PR,Iran,Iran
+Sou32495biaeaSa,18-12-1988,South Korea,Saudi Arabia,Saudi Arabia
+Gha32621bonnaGa,23-04-1989,Ghana,Gabon,Gabon
+Ken32621danyaSu,23-04-1989,Kenya,Sudan,Kenya
+Ira32820ndaanUg,08-11-1989,Iran,Uganda,Uganda
+Ira32824ndaaqUg,12-11-1989,Iraq,Uganda,Iraq
+Cha32853oonadCa,11-12-1989,Chad,Cameroon,Cameroon
+Mal32858ndawiUg,16-12-1989,Malawi,Uganda,Uganda
+Nig32901galiaSe,28-01-1990,Nigeria,Senegal,Nigeria
+Uni32908biaesCo,04-02-1990,United States,Colombia,Colombia
+Col32924siaiaRu,20-02-1990,Colombia,Russia,Colombia
+Zim33011iniweEs,18-05-1990,Zimbabwe,Eswatini,Zimbabwe
+Rep33049niandRo,25-06-1990,Republic of Ireland,Romania,Republic of Ireland
+Yug33054inaiaAr,30-06-1990,Yugoslavia,Argentina,Argentina
+Ita33057inalyAr,03-07-1990,Italy,Argentina,Argentina
+Ger33058andnyEn,04-07-1990,Germany,England,Germany
+Chi33088reaPRSo,03-08-1990,China PR,South Korea,South Korea
+Tan33224ndaiaUg,17-12-1990,Tanzania,Uganda,Uganda
+Cen33224neaicEq,17-12-1990,Central African Republic,Equatorial Guinea,Central African Republic
+Cam33259riaonAl,21-01-1991,Cameroon,Algeria,Cameroon
+Sen33259astalIv,21-01-1991,Senegal,Ivory Coast,Ivory Coast
+Sen33260riaalAl,22-01-1991,Senegal,Algeria,Senegal
+Ivo33261oonstCa,23-01-1991,Ivory Coast,Cameroon,Ivory Coast
+Sou33403liaeaAu,14-06-1991,South Korea,Australia,South Korea
+Ita33405sialyRu,16-06-1991,Italy,Russia,Italy
+Uni33426rasesHo,07-07-1991,United States,Honduras,United States
+Cze33458viaiaYu,08-08-1991,Czechoslovakia,Yugoslavia,Czechoslovakia
+Fij33501ndsjiSo,20-09-1991,Fiji,Solomon Islands,Fiji
+Egy33509aliptMa,28-09-1991,Egypt,Mali,Egypt
+Cam33626astonIv,23-01-1992,Cameroon,Ivory Coast,Ivory Coast
+Gha33629astnaIv,26-01-1992,Ghana,Ivory Coast,Ivory Coast
+Net33777arkdsDe,22-06-1992,Netherlands,Denmark,Denmark
+Cub33782quebaMa,27-06-1992,Cuba,Martinique,Martinique
+Jap33845reaanSo,29-08-1992,Japan,South Korea,Japan
+Syr33862yptiaEg,15-09-1992,Syria,Egypt,Egypt
+Chi33916tesPRUn,08-11-1992,China PR,United Arab Emirates,China PR
+Uga33933biadaZa,25-11-1992,Uganda,Zambia,Uganda
+Jap33992andanSw,23-01-1993,Japan,Switzerland,Switzerland
+Fin34020niandEs,20-02-1993,Finland,Estonia,Finland
+Arg34024arknaDe,24-02-1993,Argentina,Denmark,Argentina
+Bol34116uayiaPa,27-05-1993,Bolivia,Paraguay,Bolivia
+Mar34117visueSa,28-05-1993,Martinique,Saint Kitts and Nevis,Martinique
+Jam34119quecaMa,30-05-1993,Jamaica,Martinique,Martinique
+Col34146uayiaUr,26-06-1993,Colombia,Uruguay,Colombia
+Bra34147inailAr,27-06-1993,Brazil,Argentina,Argentina
+Col34151inaiaAr,01-07-1993,Colombia,Argentina,Argentina
+Aus34196adaiaCa,15-08-1993,Australia,Canada,Australia
+Bur34266neadiGu,24-10-1993,Burundi,Guinea,Guinea
+Bur34363neasoGu,29-01-1994,Burkina Faso,Guinea,Burkina Faso
+Nig34430astiaIv,06-04-1994,Nigeria,Ivory Coast,Nigeria
+Mex34520riacoBu,05-07-1994,Mexico,Bulgaria,Bulgaria
+Rom34525deniaSw,10-07-1994,Romania,Sweden,Sweden
+Bra34532alyilIt,17-07-1994,Brazil,Italy,Brazil
+Tan34676ndaiaUg,08-12-1994,Tanzania,Uganda,Tanzania
+Den34709icorkMe,10-01-1995,Denmark,Mexico,Denmark
+Mex34712riacoNi,13-01-1995,Mexico,Nigeria,Mexico
+Jap34756reaanSo,26-02-1995,Japan,South Korea,Japan
+Ind34789eshiaBa,31-03-1995,India,Bangladesh,India
+Ant34840visdaSa,21-05-1995,Antigua and Barbuda,Saint Kitts and Nevis,Antigua and Barbuda
+Par34859viaayBo,09-06-1995,Paraguay,Bolivia,Paraguay
+Par34896biaayCo,16-07-1995,Paraguay,Colombia,Colombia
+Uni34897icoesMe,17-07-1995,United States,Mexico,United States
+Bra34897inailAr,17-07-1995,Brazil,Argentina,Brazil
+Uru34903zilayBr,23-07-1995,Uruguay,Brazil,Uruguay
+Fij34935ndsjiSo,24-08-1995,Fiji,Solomon Islands,Solomon Islands
+Mau35031oneiaSi,28-11-1995,Mauritania,Sierra Leone,Sierra Leone
+Gab35035oononCa,02-12-1995,Gabon,Cameroon,Cameroon
+Alg35035astiaIv,02-12-1995,Algeria,Ivory Coast,Ivory Coast
+Eth35039bariaZa,06-12-1995,Ethiopia,Zanzibar,Zanzibar
+Hon35040icaasCo,07-12-1995,Honduras,Costa Rica,Honduras
+Gab35092siaonTu,28-01-1996,Gabon,Tunisia,Tunisia
+Jap35117denanSw,22-02-1996,Japan,Sweden,Sweden
+Bar35183icaosJa,28-04-1996,Barbados,Jamaica,Jamaica
+Guy35190amenaSu,05-05-1996,Guyana,Suriname,Suriname
+Mar35221ameueSu,05-06-1996,Martinique,Suriname,Martinique
+Eng35238ainndSp,22-06-1996,England,Spain,England
+Fra35238ndsceNe,22-06-1996,France,Netherlands,France
+Fra35242licceCz,26-06-1996,France,Czech Republic,Czech Republic
+Eng35242anyndGe,26-06-1996,England,Germany,Germany
+Eth35302ndaiaUg,25-08-1996,Ethiopia,Uganda,Ethiopia
+Sud35398nyaanKe,29-11-1996,Sudan,Kenya,Sudan
+Mor35410tiacoCr,11-12-1996,Morocco,Croatia,Croatia
+Cro35411liciaCz,12-12-1996,Croatia,Czech Republic,Croatia
+Ira35418biaanSa,19-12-1996,Iran,Saudi Arabia,Saudi Arabia
+Ira35420aitanKu,21-12-1996,Iran,Kuwait,Iran
+Uni35420biaesSa,21-12-1996,United Arab Emirates,Saudi Arabia,Saudi Arabia
+Ben35426asoinBu,27-12-1996,Benin,Burkina Faso,Benin
+Rus35468biaiaSe,07-02-1997,Russia,Serbia,Russia
+Ind35530raqiaIr,10-04-1997,India,Iraq,Iraq
+Ecu35603icoorMe,22-06-1997,Ecuador,Mexico,Mexico
+Tri35621icagoJa,10-07-1997,Trinidad and Tobago,Jamaica,Trinidad and Tobago
+Hai35723ubatiCu,20-10-1997,Haiti,Cuba,Haiti
+Cub35725oonbaCa,22-10-1997,Cuba,Cameroon,Cuba
+Gam35771neaiaGu,07-12-1997,Gambia,Guinea,Guinea
+Egy35826reaptSo,31-01-1998,Egypt,South Korea,South Korea
+Ira35826ileanCh,31-01-1998,Iran,Chile,Iran
+Bur35847siasoTu,21-02-1998,Burkina Faso,Tunisia,Burkina Faso
+Ivo35847yptstEg,21-02-1998,Ivory Coast,Egypt,Egypt
+Bur35853ngosoDR,27-02-1998,Burkina Faso,DR Congo,DR Congo
+Hun35907niaryNo,22-04-1998,Hungary,North Macedonia,Hungary
+Bel35944andumEn,29-05-1998,Belgium,England,Belgium
+Mor35944ncecoFr,29-05-1998,Morocco,France,Morocco
+Arg35976andnaEn,30-06-1998,Argentina,England,Argentina
+Fra35979alyceIt,03-07-1998,France,Italy,France
+Bra35983ndsilNe,07-07-1998,Brazil,Netherlands,Brazil
+Ind36043andiaTh,05-09-1998,Indonesia,Thailand,Indonesia
+Gua36116raslaHo,17-11-1998,Guatemala,Honduras,Guatemala
+Gua36117icolaMe,18-11-1998,Guatemala,Mexico,Guatemala
+Uni36131reaesNo,02-12-1998,United Arab Emirates,North Korea,United Arab Emirates
+Mal36302biawiNa,22-05-1999,Malawi,Namibia,Namibia
+Tha36327andndNe,16-06-1999,Thailand,New Zealand,Thailand
+New36330andndPo,19-06-1999,New Zealand,Poland,Poland
+Mex36351erucoPe,10-07-1999,Mexico,Peru,Mexico
+Par36351uayayUr,10-07-1999,Paraguay,Uruguay,Uruguay
+Uru36354ileayCh,13-07-1999,Uruguay,Chile,Uruguay
+Esw36359bweniZi,18-07-1999,Eswatini,Zimbabwe,Eswatini
+Nam36372icaiaSo,31-07-1999,Namibia,South Africa,Namibia
+Rwa36375nyadaKe,03-08-1999,Rwanda,Kenya,Kenya
+Rwa36379ndidaBu,07-08-1999,Rwanda,Burundi,Rwanda
+Zam36379queiaMo,07-08-1999,Zambia,Mozambique,Zambia
+Nam36400iniiaEs,28-08-1999,Namibia,Eswatini,Namibia
+Gab36490ogoonTo,26-11-1999,Gabon,Togo,Togo
+Rom36560giaiaGe,04-02-2000,Romania,Georgia,Romania
+Sou36568siacaTu,12-02-2000,South Africa,Tunisia,South Africa
+Nig36569ooniaCa,13-02-2000,Nigeria,Cameroon,Cameroon
+Uni36575biaesCo,19-02-2000,United States,Colombia,Colombia
+Sur36604ciameSa,19-03-2000,Suriname,Saint Lucia,Suriname
+Bri36645tendsSi,29-04-2000,British Virgin Islands,Sint Maarten,British Virgin Islands
+Bri36646udadsAn,30-04-2000,British Virgin Islands,Antigua and Barbuda,Antigua and Barbuda
+Mal36656nkaesSr,10-05-2000,Maldives,Sri Lanka,Sri Lanka
+Sen36657alialMa,11-05-2000,Senegal,Mali,Senegal
+Mal36666olawiAn,20-05-2000,Malawi,Angola,Angola
+Bar36667ubaosCu,21-05-2000,Barbados,Cuba,Barbados
+Fra36681panceJa,04-06-2000,France,Japan,France
+Ira36684yptanEg,07-06-2000,Iran,Egypt,Egypt
+Les36688biahoZa,11-06-2000,Lesotho,Zambia,Lesotho
+Net36706alydsIt,29-06-2000,Netherlands,Italy,Italy
+Lib36721hadyaCh,14-07-2000,Libya,Chad,Libya
+Moz36723thoueLe,16-07-2000,Mozambique,Lesotho,Lesotho
+Tog36772onegoSi,03-09-2000,Togo,Sierra Leone,Togo
+Uni36803reaesSo,04-10-2000,United Arab Emirates,South Korea,United Arab Emirates
+Ken36827ndayaUg,28-10-2000,Kenya,Uganda,Uganda
+Eth36862ndaiaRw,02-12-2000,Ethiopia,Rwanda,Ethiopia
+Chi36908yptPREg,17-01-2001,China PR,Egypt,Egypt
+Sou36918uayeaPa,27-01-2001,South Korea,Paraguay,South Korea
+Esw36933bianiZa,11-02-2001,Eswatini,Zambia,Eswatini
+Yny37084sey�nJe,12-07-2001,Ynys Môn,Jersey,Ynys Môn
+Gue37085ôneyYn,13-07-2001,Guernsey,Ynys Môn,Guernsey
+Uru37101rasayHo,29-07-2001,Uruguay,Honduras,Honduras
+Chi37106reaPRNo,03-08-2001,China PR,North Korea,North Korea
+Kuw37106agoitTr,03-08-2001,Kuwait,Trinidad and Tobago,Kuwait
+Kuw37108reaitNo,05-08-2001,Kuwait,North Korea,North Korea
+Zam37121olaiaAn,18-08-2001,Zambia,Angola,Angola
+Ken37188ndayaUg,24-10-2001,Kenya,Uganda,Kenya
+Tan37188ngoiaDR,24-10-2001,Tanzania,DR Congo,Tanzania
+Eth37243ndiiaBu,18-12-2001,Ethiopia,Burundi,Ethiopia
+Mar37262itiueHa,06-01-2002,Martinique,Haiti,Martinique
+Can37282quedaMa,26-01-2002,Canada,Martinique,Canada
+Mex37283reacoSo,27-01-2002,Mexico,South Korea,South Korea
+Uni37286adaesCa,30-01-2002,United States,Canada,United States
+Sen37297oonalCa,10-02-2002,Senegal,Cameroon,Cameroon
+Cyp37299andusSw,12-02-2002,Cyprus,Switzerland,Cyprus
+Chi37302niaPRSl,15-02-2002,China PR,Slovenia,Slovenia
+Tha37303reandNo,16-02-2002,Thailand,North Korea,North Korea
+Bot37345icanaSo,30-03-2002,Botswana,South Africa,South Africa
+Rus37393rusiaBe,17-05-2002,Russia,Belarus,Belarus
+Rus37395biaiaSe,19-05-2002,Russia,Serbia,Serbia
+Spa37423andinRe,16-06-2002,Spain,Republic of Ireland,Spain
+Sou37429aineaSp,22-06-2002,South Korea,Spain,South Korea
+Sou37458carcaMa,21-07-2002,South Africa,Madagascar,South Africa
+Ira37504ranaqIr,05-09-2002,Iraq,Iran,Iraq
+Syr37506raniaIr,07-09-2002,Syria,Iran,Iran
+Ira37516ccoanMo,17-09-2002,Iran,Morocco,Iran
+Ira37518uayanPa,19-09-2002,Iran,Paraguay,Iran
+Ken37552icayaSo,23-10-2002,Kenya,South Africa,Kenya
+Tan37555icaiaSo,26-10-2002,Tanzania,South Africa,South Africa
+Ken37555ndayaUg,26-10-2002,Kenya,Uganda,Kenya
+Sou37579galcaSe,19-11-2002,South Africa,Senegal,Senegal
+Nig37617asoerBu,27-12-2002,Niger,Burkina Faso,Burkina Faso
+Nig37619alierMa,29-12-2002,Niger,Mali,Niger
+Ban37641vesshMa,20-01-2003,Bangladesh,Maldives,Bangladesh
+Uru37656ranayIr,04-02-2003,Uruguay,Iran,Uruguay
+Ben37687gerinNi,07-03-2003,Benin,Niger,Benin
+Gua37695anapeFr,15-03-2003,Guadeloupe,French Guiana,Guadeloupe
+Moz37702thoueLe,22-03-2003,Mozambique,Lesotho,Mozambique
+Tun37707anaiaGh,27-03-2003,Tunisia,Ghana,Tunisia
+Gha37710carnaMa,30-03-2003,Ghana,Madagascar,Ghana
+Bot37765awinaMa,24-05-2003,Botswana,Malawi,Malawi
+New37811atuiaVa,09-07-2003,New Caledonia,Vanuatu,New Caledonia
+Mal37849biawiZa,16-08-2003,Malawi,Zambia,Malawi
+Alg37888boniaGa,24-09-2003,Algeria,Gabon,Algeria
+Alg37890asoiaBu,26-09-2003,Algeria,Burkina Faso,Algeria
+Ken37963ndayaRw,08-12-2003,Kenya,Rwanda,Rwanda
+Sud37963ndaanUg,08-12-2003,Sudan,Uganda,Uganda
+Tun38028riaiaNi,11-02-2004,Tunisia,Nigeria,Tunisia
+Kaz38036niaanAr,19-02-2004,Kazakhstan,Armenia,Kazakhstan
+Les38045anahoBo,28-02-2004,Lesotho,Botswana,Botswana
+Jor38161riaanSy,23-06-2004,Jordan,Syria,Syria
+Por38162andalEn,24-06-2004,Portugal,England,Portugal
+Swe38164ndsenNe,26-06-2004,Sweden,Netherlands,Netherlands
+Ang38186analaBo,18-07-2004,Angola,Botswana,Angola
+Uru38189zilayBr,21-07-2004,Uruguay,Brazil,Brazil
+Arg38193zilnaBr,25-07-2004,Argentina,Brazil,Brazil
+Uzb38198ainanBa,30-07-2004,Uzbekistan,Bahrain,Bahrain
+Jap38199dananJo,31-07-2004,Japan,Jordan,Japan
+Chi38202ranPRIr,03-08-2004,China PR,Iran,China PR
+Nig38282doriaEc,22-10-2004,Nigeria,Ecuador,Ecuador
+Zim38284biaweZa,24-10-2004,Zimbabwe,Zambia,Zambia
+Zam38311olaiaAn,20-11-2004,Zambia,Angola,Angola
+Tha38321niandEs,30-11-2004,Thailand,Estonia,Thailand
+Sin38321ongreHo,30-11-2004,Singapore,Hong Kong,Hong Kong
+Tha38323kiandSl,02-12-2004,Thailand,Slovakia,Slovakia
+Bah38324viainLa,03-12-2004,Bahrain,Latvia,Bahrain
+Fin38324manndOm,03-12-2004,Finland,Oman,Oman
+Eth38343nyaiaKe,22-12-2004,Ethiopia,Kenya,Ethiopia
+Qat38345manarOm,24-12-2004,Qatar,Oman,Qatar
+Cyp38391riausAu,08-02-2005,Cyprus,Austria,Cyprus
+Aus38392viaiaLa,09-02-2005,Austria,Latvia,Latvia
+Cos38410rascaHo,27-02-2005,Costa Rica,Honduras,Costa Rica
+Nam38458anaiaBo,16-04-2005,Namibia,Botswana,Botswana
+Mex38529inacoAr,26-06-2005,Mexico,Argentina,Argentina
+Col38554amaiaPa,21-07-2005,Colombia,Panama,Panama
+Uni38557amaesPa,24-07-2005,United States,Panama,United States
+Kuw38561tesitUn,28-07-2005,Kuwait,United Arab Emirates,United Arab Emirates
+Egy38563tesptUn,30-07-2005,Egypt,United Arab Emirates,Egypt
+Sou38577biacaZa,13-08-2005,South Africa,Zambia,Zambia
+Ukr38579aelneIs,15-08-2005,Ukraine,Israel,Israel
+Aus38672uayiaUr,16-11-2005,Australia,Uruguay,Australia
+Syr38696raqiaIr,10-12-2005,Syria,Iraq,Iraq
+Zan38696ndaarUg,10-12-2005,Zanzibar,Uganda,Zanzibar
+Nig38752siaiaTu,04-02-2006,Nigeria,Tunisia,Nigeria
+Cam38752astonIv,04-02-2006,Cameroon,Ivory Coast,Ivory Coast
+Egy38758astptIv,10-02-2006,Egypt,Ivory Coast,Egypt
+Fin38776tanndKa,28-02-2006,Finland,Kazakhstan,Kazakhstan
+Fin38777rusndBe,01-03-2006,Finland,Belarus,Finland
+Les38836quehoMo,29-04-2006,Lesotho,Mozambique,Lesotho
+Mau38837queusMo,30-04-2006,Mauritius,Mozambique,Mozambique
+Bot38858icanaSo,21-05-2006,Botswana,South Africa,Botswana
+Nor38871barusZa,03-06-2006,Northern Cyprus,Zanzibar,Northern Cyprus
+Swi38894inendUk,26-06-2006,Switzerland,Ukraine,Ukraine
+Ger38898inanyAr,30-06-2006,Germany,Argentina,Germany
+Eng38899galndPo,01-07-2006,England,Portugal,Portugal
+Ita38907ncelyFr,09-07-2006,Italy,France,Italy
+Nam38920lesiaSe,22-07-2006,Namibia,Seychelles,Seychelles
+Moz39201bweueZi,29-04-2007,Mozambique,Zimbabwe,Mozambique
+Mal39228icawiSo,26-05-2007,Malawi,South Africa,South Africa
+Esw39228iusniMa,26-05-2007,Eswatini,Mauritius,Mauritius
+Uru39273zilayBr,10-07-2007,Uruguay,Brazil,Brazil
+Jap39284liaanAu,21-07-2007,Japan,Australia,Japan
+Ira39285reaanSo,22-07-2007,Iran,South Korea,South Korea
+Ira39288reaaqSo,25-07-2007,Iraq,South Korea,Iraq
+Sou39291paneaJa,28-07-2007,South Korea,Japan,South Korea
+Bot39292olanaAn,29-07-2007,Botswana,Angola,Botswana
+Sou39379biacaZa,24-10-2007,South Africa,Zambia,South Africa
+Cro39619keyiaTu,20-06-2008,Croatia,Turkey,Turkey
+Spa39621alyinIt,22-06-2008,Spain,Italy,Spain
+Zam39656bweiaZi,27-07-2008,Zambia,Zimbabwe,Zambia
+Pro39990pmiceS�,26-06-2009,Provence,Sápmi,Sápmi
+Cos40017icocaMe,23-07-2009,Costa Rica,Mexico,Mexico
+Zim40114icaweSo,28-10-2009,Zimbabwe,South Africa,Zimbabwe
+Zam40203riaiaNi,25-01-2010,Zambia,Nigeria,Nigeria
+Par40358panayJa,29-06-2010,Paraguay,Japan,Paraguay
+Uru40361anaayGh,02-07-2010,Uruguay,Ghana,Uruguay
+Jap40568reaanSo,25-01-2011,Japan,South Korea,Japan
+Rom40582ineiaUk,08-02-2011,Romania,Ukraine,Ukraine
+Swe40583ineenUk,09-02-2011,Sweden,Ukraine,Ukraine
+Uru40702ndsayNe,08-06-2011,Uruguay,Netherlands,Uruguay
+Cos40712rascaHo,18-06-2011,Costa Rica,Honduras,Honduras
+Pan40713dormaEl,19-06-2011,Panama,El Salvador,Panama
+Saa40723ndstyÅ,29-06-2011,Saare County,Åland Islands,Åland Islands
+Isl40724rcaanMe,30-06-2011,Isle of Man,Menorca,Menorca
+Sai40736ubaiaAr,12-07-2011,Saint Lucia,Aruba,Saint Lucia
+Arg40740uaynaUr,16-07-2011,Argentina,Uruguay,Uruguay
+Bra40741uayilPa,17-07-2011,Brazil,Paraguay,Paraguay
+Par40744elaayVe,20-07-2011,Paraguay,Venezuela,Paraguay
+Gab40944alionMa,05-02-2012,Gabon,Mali,Mali
+Zam40951astiaIv,12-02-2012,Zambia,Ivory Coast,Zambia
+Fin41063viandLa,03-06-2012,Finland,Latvia,Latvia
+Eng41084alyndIt,24-06-2012,England,Italy,Italy
+Por41087ainalSp,27-06-2012,Portugal,Spain,Spain
+Arg41234zilnaBr,21-11-2012,Argentina,Brazil,Brazil
+Swe41297reaenNo,23-01-2013,Sweden,North Korea,Sweden
+Sou41307alicaMa,02-02-2013,South Africa,Mali,Mali
+Bur41311anasoGh,06-02-2013,Burkina Faso,Ghana,Burkina Faso
+Spa41452alyinIt,27-06-2013,Spain,Italy,Spain
+Uru41455alyayIt,30-06-2013,Uruguay,Italy,Italy
+Zim41468awiweMa,13-07-2013,Zimbabwe,Malawi,Zimbabwe
+Ang41469tholaLe,14-07-2013,Angola,Lesotho,Lesotho
+Zam41472icaiaSo,17-07-2013,Zambia,South Africa,Zambia
+Lat41788niaiaEs,29-05-2014,Latvia,Estonia,Latvia
+Abk41794tiaiaSo,04-06-2014,Abkhazia,South Ossetia,South Ossetia
+Ell41794taninIr,04-06-2014,Ellan Vannin,Iraqi Kurdistan,Ellan Vannin
+Pad41795ziaiaAb,05-06-2014,Padania,Abkhazia,Padania
+Occ41795taniaIr,05-06-2014,Occitania,Iraqi Kurdistan,Iraqi Kurdistan
+Pad41797taniaIr,07-06-2014,Padania,Iraqi Kurdistan,Padania
+Cou41798ninceEl,08-06-2014,County of Nice,Ellan Vannin,County of Nice
+Bra41818ileilCh,28-06-2014,Brazil,Chile,Brazil
+Cos41819ececaGr,29-06-2014,Costa Rica,Greece,Costa Rica
+Net41825icadsCo,05-07-2014,Netherlands,Costa Rica,Netherlands
+Net41829inadsAr,09-07-2014,Netherlands,Argentina,Argentina
+Ira42027raqanIr,23-01-2015,Iran,Iraq,Iraq
+Jap42027tesanUn,23-01-2015,Japan,United Arab Emirates,United Arab Emirates
+Cur42034ubaaoAr,30-01-2015,Curaçao,Aruba,Aruba
+Equ42042ngoeaDR,07-02-2015,Equatorial Guinea,DR Congo,DR Congo
+Ivo42043anastGh,08-02-2015,Ivory Coast,Ghana,Ivory Coast
+Zam42148biaiaNa,24-05-2015,Zambia,Namibia,Namibia
+Sou42148anacaBo,24-05-2015,South Africa,Botswana,Botswana
+Moz42149awiueMa,25-05-2015,Mozambique,Malawi,Mozambique
+Sou42151awicaMa,27-05-2015,South Africa,Malawi,Malawi
+Ell42176ékinFe,21-06-2015,Ellan Vannin,Felvidék,Ellan Vannin
+Arg42181bianaCo,26-06-2015,Argentina,Colombia,Argentina
+Bra42182uayilPa,27-06-2015,Brazil,Paraguay,Paraguay
+Gib42187ndsarÅ,02-07-2015,Gibraltar,Åland Islands,Åland Islands
+Chi42189inaleAr,04-07-2015,Chile,Argentina,Chile
+Zam42189biaiaNa,04-07-2015,Zambia,Namibia,Zambia
+Tri42204amagoPa,19-07-2015,Trinidad and Tobago,Panama,Panama
+Uni42210amaesPa,25-07-2015,United States,Panama,Panama
+El 42290alaorGu,13-10-2015,El Salvador,Guatemala,Guatemala
+DR 42403neagoGu,03-02-2016,DR Congo,Guinea,DR Congo
+Cor42517trycaBa,27-05-2016,Corsica,Basque Country,Basque Country
+Uni42522rusanNo,01-06-2016,United Koreans in Japan,Northern Cyprus,Northern Cyprus
+Ira42523niaanPa,02-06-2016,Iraqi Kurdistan,Padania,Padania
+Bos42524arknaDe,03-06-2016,Bosnia and Herzegovina,Denmark,Bosnia and Herzegovina
+Tha42524riandSy,03-06-2016,Thailand,Syria,Thailand
+Vie42524ongamHo,03-06-2016,Vietnam,Hong Kong,Vietnam
+Ira42524niaanWe,03-06-2016,Iraqi Kurdistan,Western Armenia,Western Armenia
+Cha42524tiadsRa,03-06-2016,Chagos Islands,Raetia,Raetia
+Uni42525tananIr,04-06-2016,United Koreans in Japan,Iraqi Kurdistan,United Koreans in Japan
+Abk42526jabiaPa,05-06-2016,Abkhazia,Panjab,Abkhazia
+Pap42532andeaNe,11-06-2016,Papua New Guinea,New Zealand,New Zealand
+Per42538biaruCo,17-06-2016,Peru,Colombia,Colombia
+Nam42539anaiaBo,18-06-2016,Namibia,Botswana,Botswana
+Sou42539thocaLe,18-06-2016,South Africa,Lesotho,South Africa
+Zam42540iniiaEs,19-06-2016,Zambia,Eswatini,Eswatini
+Bot42543ngonaDR,22-06-2016,Botswana,DR Congo,Botswana
+Swi42546andndPo,25-06-2016,Switzerland,Poland,Poland
+Arg42547ilenaCh,26-06-2016,Argentina,Chile,Chile
+Pol42551galndPo,30-06-2016,Poland,Portugal,Portugal
+Ger42553alynyIt,02-07-2016,Germany,Italy,Germany
+Chi42746tialeCr,11-01-2017,Chile,Croatia,Chile
+Chi42749tiaPRCr,14-01-2017,China PR,Croatia,China PR
+Bur42767yptsoEg,01-02-2017,Burkina Faso,Egypt,Egypt
+Ká42895ninjaEl,09-06-2017,Kárpátalja,Ellan Vannin,Kárpátalja
+Pad42895ziaiaAb,09-06-2017,Padania,Abkhazia,Padania
+Nor42896niausPa,10-06-2017,Northern Cyprus,Padania,Padania
+Por42914ilealCh,28-06-2017,Portugal,Chile,Chile
+Hit42915lesraWe,29-06-2017,Hitra,Western Isles,Western Isles
+Gre42915rcandMe,29-06-2017,Greenland,Menorca,Greenland
+Nam42917thoiaLe,01-07-2017,Namibia,Lesotho,Lesotho
+Tan42923thoiaLe,07-07-2017,Tanzania,Lesotho,Tanzania
+Tha42932rusndBe,16-07-2017,Thailand,Belarus,Thailand
+Sou43180olacaAn,21-03-2018,South Africa,Angola,South Africa
+Zam43180bweiaZi,21-03-2018,Zambia,Zimbabwe,Zambia
+Tha43181bonndGa,22-03-2018,Thailand,Gabon,Thailand
+Ang43183bwelaZi,24-03-2018,Angola,Zimbabwe,Angola
+Zam43253biaiaNa,02-06-2018,Zambia,Namibia,Zambia
+And43254rderaCa,03-06-2018,Andorra,Cape Verde,Cape Verde
+Sou43254carcaMa,03-06-2018,South Africa,Madagascar,Madagascar
+Zim43254anaweBo,03-06-2018,Zimbabwe,Botswana,Zimbabwe
+Mat43256liandKa,05-06-2018,Matabeleland,Kabylia,Kabylia
+Les43257bwehoZi,06-06-2018,Lesotho,Zimbabwe,Zimbabwe
+Tib43260panetUn,09-06-2018,Tibet,United Koreans in Japan,United Koreans in Japan
+Pan43260diaabCa,09-06-2018,Panjab,Cascadia,Panjab
+Pad43260andiaSz,09-06-2018,Padania,Székely Land,Padania
+Nor43260ljausK�,09-06-2018,Northern Cyprus,Kárpátalja,Kárpátalja
+Rus43282ainiaSp,01-07-2018,Russia,Spain,Russia
+Cro43282arkiaDe,01-07-2018,Croatia,Denmark,Croatia
+Col43284andiaEn,03-07-2018,Colombia,England,England
+Rus43288tiaiaCr,07-07-2018,Russia,Croatia,Croatia
+Jor43485namanVi,20-01-2019,Jordan,Vietnam,Vietnam
+Aus43486taniaUz,21-01-2019,Australia,Uzbekistan,Australia
+Oma43547oreanSi,23-03-2019,Oman,Singapore,Oman
+Les43617ndahoUg,01-06-2019,Lesotho,Uganda,Lesotho
+Sou43618anacaBo,02-06-2019,South Africa,Botswana,Botswana
+Zam43618awiiaMa,02-06-2019,Zambia,Malawi,Zambia
+Sou43620ndacaUg,04-06-2019,South Africa,Uganda,South Africa
+Zim43621biaweZa,05-06-2019,Zimbabwe,Zambia,Zambia
+Abk43622niaiaWe,06-06-2019,Abkhazia,Western Armenia,Western Armenia
+Sou43622riaiaCh,06-06-2019,South Ossetia,Chameria,South Ossetia
+Les43623bwehoZi,07-06-2019,Lesotho,Zimbabwe,Zimbabwe
+Sou43623awicaMa,07-06-2019,South Africa,Malawi,South Africa
+Abk43624riaiaCh,08-06-2019,Abkhazia,Chameria,Abkhazia
+Swi43625andndEn,09-06-2019,Switzerland,England,England
+Bra43643uayilPa,27-06-2019,Brazil,Paraguay,Brazil
+Col43644ileiaCh,28-06-2019,Colombia,Chile,Chile
+Mex43645icacoCo,29-06-2019,Mexico,Costa Rica,Mexico
+Uru43645eruayPe,29-06-2019,Uruguay,Peru,Peru
+Mor43651nincoBe,05-07-2019,Morocco,Benin,Benin
+Mad43653ngoarDR,07-07-2019,Madagascar,DR Congo,Madagascar
+Gha43654sianaTu,08-07-2019,Ghana,Tunisia,Tunisia
+Ivo43657riastAl,11-07-2019,Ivory Coast,Algeria,Algeria
+Tan43716ndiiaBu,08-09-2019,Tanzania,Burundi,Tanzania
+Cha43751riaadLi,13-10-2019,Chad,Liberia,Chad
+Gam43751utiiaDj,13-10-2019,Gambia,Djibouti,Gambia
+Bos44112andnaNo,08-10-2020,Bosnia and Herzegovina,Northern Ireland,Northern Ireland
+Slo44112andiaRe,08-10-2020,Slovakia,Republic of Ireland,Slovakia
+Sco44112aelndIs,08-10-2020,Scotland,Israel,Scotland
+Ser44147andiaSc,12-11-2020,Serbia,Scotland,Scotland
+Mex44350icacoCo,03-06-2021,Mexico,Costa Rica,Mexico
+Hon44353icaasCo,06-06-2021,Honduras,Costa Rica,Honduras
+Fra44375andceSw,28-06-2021,France,Switzerland,Switzerland
+Per44379uayruPa,02-07-2021,Peru,Paraguay,Peru
+Swi44379ainndSp,02-07-2021,Switzerland,Spain,Spain
+Uru44380biaayCo,03-07-2021,Uruguay,Colombia,Colombia
+Ita44383ainlySp,06-07-2021,Italy,Spain,Italy
+Tri44383anagoFr,06-07-2021,Trinidad and Tobago,French Guiana,Trinidad and Tobago
+Arg44383bianaCo,06-07-2021,Argentina,Colombia,Argentina
+Gua44383upelaGu,06-07-2021,Guatemala,Guadeloupe,Guadeloupe
+Eng44388alyndIt,11-07-2021,England,Italy,Italy
+Sen44393inialEs,16-07-2021,Senegal,Eswatini,Senegal
+Esw44395queniMo,18-07-2021,Eswatini,Mozambique,Eswatini
+Sou44395galcaSe,18-07-2021,South Africa,Senegal,South Africa
+Sri44519leskaSe,19-11-2021,Sri Lanka,Seychelles,Seychelles
+Mor44541riacoAl,11-12-2021,Morocco,Algeria,Algeria
+Qat44548yptarEg,18-12-2021,Qatar,Egypt,Qatar
+Bur44584bonsoGa,23-01-2022,Burkina Faso,Gabon,Burkina Faso
+Ivo44587yptstEg,26-01-2022,Ivory Coast,Egypt,Egypt
+Mal44587nealiEq,26-01-2022,Mali,Equatorial Guinea,Equatorial Guinea
+Cam44595yptonEg,03-02-2022,Cameroon,Egypt,Egypt
+Cam44597asoonBu,05-02-2022,Cameroon,Burkina Faso,Cameroon
+Sen44598yptalEg,06-02-2022,Senegal,Egypt,Senegal
+Taj44645ndaanUg,25-03-2022,Tajikistan,Uganda,Uganda
+Kaz44649ovaanMo,29-03-2022,Kazakhstan,Moldova,Kazakhstan
+Sen44649yptalEg,29-03-2022,Senegal,Egypt,Senegal
+Aus44725eruiaPe,13-06-2022,Australia,Peru,Australia
+Chi44726analeGh,14-06-2022,Chile,Ghana,Ghana
+Tha44826siandMa,22-09-2022,Thailand,Malaysia,Malaysia
+Ira44827manaqOm,23-09-2022,Iraq,Oman,Oman
+Mal44829taniaTa,25-09-2022,Malaysia,Tajikistan,Tajikistan
+Lit44881andiaIc,16-11-2022,Lithuania,Iceland,Iceland
+Lat44881niaiaEs,16-11-2022,Latvia,Estonia,Latvia
+Lat44884andiaIc,19-11-2022,Latvia,Iceland,Iceland
+Jap44900tiaanCr,05-12-2022,Japan,Croatia,Croatia
+Mor44901aincoSp,06-12-2022,Morocco,Spain,Morocco
+Cro44904ziliaBr,09-12-2022,Croatia,Brazil,Croatia
+Net44904inadsAr,09-12-2022,Netherlands,Argentina,Argentina
+Arg44913ncenaFr,18-12-2022,Argentina,France,Argentina

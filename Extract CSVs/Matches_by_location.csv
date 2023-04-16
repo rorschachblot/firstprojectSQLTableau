@@ -1,0 +1,265 @@
+country,matches,percentage_matches
+United States,1265,2.86
+France,830,1.88
+Malaysia,755,1.71
+England,686,1.55
+Sweden,660,1.49
+Qatar,633,1.43
+Germany,608,1.37
+Brazil,569,1.29
+Spain,568,1.28
+United Arab Emirates,557,1.26
+South Africa,533,1.21
+Austria,518,1.17
+Italy,508,1.15
+Thailand,501,1.13
+Switzerland,497,1.12
+South Korea,479,1.08
+Hungary,462,1.04
+Argentina,458,1.04
+Egypt,421,0.95
+Chile,418,0.95
+Netherlands,417,0.94
+Belgium,414,0.94
+Mexico,411,0.93
+Norway,402,0.91
+Poland,398,0.9
+Saudi Arabia,396,0.9
+Denmark,393,0.89
+Uruguay,387,0.87
+Trinidad and Tobago,386,0.87
+Portugal,381,0.86
+Singapore,378,0.85
+Tunisia,376,0.85
+Scotland,374,0.85
+Kuwait,373,0.84
+Japan,372,0.84
+Kenya,365,0.83
+Morocco,360,0.81
+Turkey,345,0.78
+Finland,341,0.77
+Uganda,327,0.74
+Tanzania,319,0.72
+Wales,316,0.71
+Peru,314,0.71
+Romania,309,0.7
+China PR,307,0.69
+Republic of Ireland,305,0.69
+Australia,300,0.68
+Greece,298,0.67
+Jamaica,297,0.67
+Malawi,294,0.66
+Indonesia,294,0.66
+Costa Rica,291,0.66
+Northern Ireland,288,0.65
+Cyprus,284,0.64
+Ethiopia,282,0.64
+Bulgaria,277,0.63
+Malta,274,0.62
+Iran,269,0.61
+Bahrain,267,0.6
+Zambia,266,0.6
+Ghana,263,0.59
+India,261,0.59
+Oman,260,0.59
+Honduras,253,0.57
+Jordan,246,0.56
+Israel,240,0.54
+Luxembourg,238,0.54
+Cameroon,235,0.53
+Estonia,233,0.53
+Russia,232,0.52
+Paraguay,228,0.52
+Gabon,227,0.51
+Senegal,226,0.51
+Nigeria,226,0.51
+Ivory Coast,226,0.51
+Algeria,223,0.5
+Ecuador,220,0.5
+Yugoslavia,217,0.49
+Hong Kong,216,0.49
+Mali,211,0.48
+El Salvador,210,0.47
+Guatemala,210,0.47
+Haiti,207,0.47
+Bolivia,206,0.47
+Iceland,205,0.46
+Panama,198,0.45
+Colombia,197,0.45
+Czechoslovakia,195,0.44
+Zimbabwe,184,0.42
+Venezuela,182,0.41
+Latvia,178,0.4
+Libya,178,0.4
+Albania,178,0.4
+Sudan,176,0.4
+Rwanda,171,0.39
+Congo,170,0.38
+Lebanon,169,0.38
+Angola,168,0.38
+Soviet Union,167,0.38
+Iraq,167,0.38
+Burkina Faso,163,0.37
+Lithuania,153,0.35
+Barbados,151,0.34
+Togo,151,0.34
+Martinique,149,0.34
+Guinea,146,0.33
+Ukraine,145,0.33
+Canada,145,0.33
+Mozambique,144,0.33
+New Zealand,143,0.32
+Suriname,143,0.32
+Croatia,143,0.32
+Botswana,141,0.32
+Slovakia,140,0.32
+Fiji,140,0.32
+Vietnam,138,0.31
+Georgia,137,0.31
+Czech Republic,136,0.31
+Liberia,135,0.31
+German DR,129,0.29
+Sierra Leone,127,0.29
+Gambia,127,0.29
+North Macedonia,127,0.29
+Slovenia,125,0.28
+Saint Kitts and Nevis,125,0.28
+Uzbekistan,124,0.28
+New Caledonia,123,0.28
+Azerbaijan,120,0.27
+Eswatini,119,0.27
+Faroe Islands,117,0.26
+Syria,117,0.26
+Benin,117,0.26
+Namibia,116,0.26
+Bangladesh,115,0.26
+Antigua and Barbuda,112,0.25
+Equatorial Guinea,109,0.25
+Grenada,109,0.25
+Guyana,107,0.24
+Lesotho,106,0.24
+Mauritania,105,0.24
+Madagascar,104,0.24
+Nepal,103,0.23
+Bosnia and Herzegovina,102,0.23
+Liechtenstein,101,0.23
+Mauritius,98,0.22
+Belarus,97,0.22
+Armenia,97,0.22
+Moldova,97,0.22
+Malaya,95,0.21
+Kazakhstan,95,0.21
+Guadeloupe,95,0.21
+Saint Lucia,94,0.21
+San Marino,93,0.21
+Bermuda,91,0.21
+Saint Vincent and the Grenadines,91,0.21
+Niger,91,0.21
+Maldives,88,0.2
+DR Congo,87,0.2
+Cambodia,85,0.19
+Philippines,85,0.19
+Cape Verde,83,0.19
+Curaçao,81,0.18
+Cuba,80,0.18
+Andorra,80,0.18
+Dominican Republic,78,0.18
+Netherlands Antilles,77,0.17
+French Polynesia,77,0.17
+Samoa,72,0.16
+Vietnam Republic,72,0.16
+Sri Lanka,70,0.16
+Dominica,70,0.16
+Vanuatu,69,0.16
+Montenegro,68,0.15
+Guinea-Bissau,68,0.15
+Myanmar,68,0.15
+Jersey,68,0.15
+Solomon Islands,66,0.15
+Pakistan,66,0.15
+Serbia,65,0.15
+Taiwan,63,0.14
+Puerto Rico,63,0.14
+French Guiana,62,0.14
+Cayman Islands,62,0.14
+Zaïre,59,0.13
+Papua New Guinea,59,0.13
+Yemen,58,0.13
+North Korea,56,0.13
+Aruba,53,0.12
+Tajikistan,53,0.12
+Laos,51,0.12
+Burundi,49,0.11
+Macau,49,0.11
+Gibraltar,47,0.11
+Réunion,47,0.11
+Nicaragua,46,0.1
+Kyrgyzstan,44,0.1
+Seychelles,43,0.1
+Guam,43,0.1
+Guernsey,41,0.09
+Chad,38,0.09
+Turkmenistan,36,0.08
+Northern Cyprus,35,0.08
+Zanzibar,34,0.08
+Central African Republic,34,0.08
+Kosovo,31,0.07
+British Virgin Islands,30,0.07
+Belize,30,0.07
+Netherlands Guyana,29,0.07
+British Guyana,28,0.06
+Tanganyika,28,0.06
+Djibouti,28,0.06
+Western Samoa,27,0.06
+Anguilla,27,0.06
+Comoros,24,0.05
+Isle of Man,24,0.05
+Bahamas,23,0.05
+Mongolia,23,0.05
+United States Virgin Islands,22,0.05
+Upper Volta,22,0.05
+São Tomé and Príncipe,21,0.05
+Burma,19,0.04
+Eritrea,18,0.04
+Palestine,18,0.04
+Somalia,17,0.04
+Dahomey,16,0.04
+Bhutan,16,0.04
+Northern Rhodesia,15,0.03
+Brunei,15,0.03
+Tonga,12,0.03
+Saint Martin,11,0.02
+Southern Rhodesia,11,0.02
+Serbia and Montenegro,11,0.02
+United Arab Republic,11,0.02
+Cook Islands,10,0.02
+Turks and Caicos Islands,10,0.02
+Montserrat,10,0.02
+Sint Maarten,10,0.02
+South Sudan,9,0.02
+Afghanistan,8,0.02
+Ceylon,8,0.02
+Vietnam DR,7,0.02
+Saarland,6,0.01
+Rhodesia,6,0.01
+Gold Coast,6,0.01
+Manchuria,5,0.01
+Monaco,5,0.01
+Yemen AR,5,0.01
+Nyasaland,4,0.01
+East Timor,4,0.01
+French Somaliland,4,0.01
+Bohemia,3,0.01
+Tahiti,3,0.01
+Northern Mariana Islands,3,0.01
+Palau,3,0.01
+New Hebrides,3,0.01
+Greenland,2,0.0
+Yemen DPR,2,0.0
+Mayotte,2,0.0
+Lautoka,1,0.0
+Micronesia,1,0.0
+Bohemia and Moravia,1,0.0
+Mali Federation,1,0.0
+Belgian Congo,1,0.0
+Portuguese Guinea,1,0.0
